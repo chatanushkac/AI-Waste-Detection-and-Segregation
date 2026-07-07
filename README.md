@@ -150,7 +150,7 @@ The following features are planned for future development:
 
 ## 👩‍💻 Developer
 
-**Anushka Chaturvedi**
+**Anushka Chaturvedi** **&**
 **Hanumant Sahay**
 
 B.Tech CSE (AI & Data Science)
